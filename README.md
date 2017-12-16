@@ -1,4 +1,4 @@
-# Playground-OpenGL
+# OpenGL-Playground
 
 An implementation of a simple playground scene using OpenGL Utitlity Toolkit (GLUT) primitives and primitives rendered using Blender.
 
