@@ -10,7 +10,10 @@ Steps to get the code running:
 
 2. Clone the repo.
 
-3. Compile the project using the command "g++-5 *.cpp *.h -std=c++11 -lGL -lglut -lGLU"
+3. Compile the project using the command 
+```
+g++-5 *.cpp *.h -std=c++11 -lGL -lglut -lGLU
+```
 
 4. Run the executable. Use the 'W','A','S','D','R','F' to move the camera and the 'I','J','K','L,'Z','X' keys to rotate the camera and look around.
 
