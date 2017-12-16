@@ -4,8 +4,7 @@ An implementation of a simple playground scene using OpenGL Utitlity Toolkit (GL
 
 Final output:
 ![Playground Scene](/images/scene.png)
-
-Follow the steps to get started:
+Steps to get the code running:
 
 1. Install OpenGL, GLUT and GLM.
 
